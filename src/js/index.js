@@ -9,9 +9,6 @@ import "../styles/index.css";
 import Home from "./component/home.jsx";
 
 
-
-
-
 let num6 = 0;
 let num5 = 0;
 let num4 = 0;
